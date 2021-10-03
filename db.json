@@ -1,0 +1,138 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "David",
+      "age": 18
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "age": 20
+    }
+  ],
+  "Foods": [
+    {
+      "id": 1,
+      "foodimg": "pd1.png",
+      "foodname": "Garlic Burger",
+      "foodprice": 23,
+      "foodlike": 80,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken.",
+      "isLike": false
+    },
+    {
+      "id": 2,
+      "foodimg": "pd2.png",
+      "foodname": "Vegetable Pizza",
+      "foodprice": 17,
+      "foodlike": 150,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken.",
+      "isLike": false
+    },
+    {
+      "id": 3,
+      "foodimg": "pd3.png",
+      "foodname": "Chicken Fry",
+      "foodprice": 32,
+      "foodlike": 90,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken."
+    },
+    {
+      "id": 4,
+      "foodimg": "pd4.png",
+      "foodname": "Chickpea Soup",
+      "foodprice": 16,
+      "foodlike": 120,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken."
+    },
+    {
+      "id": 5,
+      "foodimg": "pd5.png",
+      "foodname": "Sea pizza",
+      "foodprice": 22,
+      "foodlike": 110,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken."
+    },
+    {
+      "id": 6,
+      "foodimg": "pd6.png",
+      "foodname": "Vegetable Pizza",
+      "foodprice": 13,
+      "foodlike": 170,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken."
+    },
+    {
+      "id": 7,
+      "foodimg": "pd7.png",
+      "foodname": "Chicken Fry",
+      "foodprice": 24,
+      "foodlike": 290,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken."
+    },
+    {
+      "id": 8,
+      "foodimg": "pd8.png",
+      "foodname": "Chicken Sharma",
+      "foodprice": 35,
+      "foodlike": 400,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken."
+    },
+    {
+      "id": 9,
+      "foodimg": "pd4.png",
+      "foodname": "Sandwich",
+      "foodprice": 27,
+      "foodlike": 180,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken."
+    },
+    {
+      "id": 10,
+      "foodimg": "pd2.png",
+      "foodname": "Orin Pizza",
+      "foodprice": 26,
+      "foodlike": 480,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken."
+    },
+    {
+      "id": 11,
+      "foodimg": "pd5.png",
+      "foodname": "Chicken bee",
+      "foodprice": 10,
+      "foodlike": 370,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken."
+    },
+    {
+      "id": 12,
+      "foodimg": "pd7.png",
+      "foodname": "Tikka",
+      "foodprice": 28,
+      "foodlike": 150,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken."
+    },
+    {
+      "id": 13,
+      "foodimg": "pd3.png",
+      "foodname": "Back Frame Pizza",
+      "foodprice": 14,
+      "foodlike": 250,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken."
+    },
+    {
+      "id": 14,
+      "foodimg": "pd1.png",
+      "foodname": "Chickpea Soup",
+      "foodprice": 18,
+      "foodlike": 310,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken."
+    },
+    {
+      "id": 15,
+      "foodimg": "pd6.png",
+      "foodname": "Vegetable Pizza",
+      "foodprice": 21,
+      "foodlike": 210,
+      "foodnote": "It is a long established fact that a reader BBQ food Chicken."
+    }
+  ]
+}
